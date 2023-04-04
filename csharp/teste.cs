@@ -1,6 +1,6 @@
 using System;
 
-class Teste 
+class teste 
 {
   static void Main()
   {
