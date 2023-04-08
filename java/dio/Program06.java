@@ -18,7 +18,7 @@ da velocidade permitida automaticamente já é contabilizado uma multa para ele.
 
 import java.util.Scanner; 
     
-public class Program {
+public class Program06 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         int velocidade = leitor.nextInt();
